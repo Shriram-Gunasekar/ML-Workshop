@@ -1,2 +1,2 @@
 # ML-Workshop
-Materials of a workshop conducted for junior AU students
+Materials of a workshop I conducted for my junior AU students
